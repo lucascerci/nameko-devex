@@ -32,8 +32,8 @@
 
 <style>
     .input-test {
-        width: 410px;
-        height: 48px;
+        width: 25.625rem;
+        height: 3rem;
         flex-shrink: 0;
         border-radius: 4px;
         border: 1px solid #C3C1D7;
@@ -42,7 +42,7 @@
     .input-label {
         color: #35344C;
         /* Body Bold */
-        font-size: 16px;
+        font-size: 1rem;
         font-style: normal;
         font-weight: 600;
         line-height: normal;
